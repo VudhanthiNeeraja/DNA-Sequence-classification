@@ -9,8 +9,7 @@ DNA sequences are provided in tab-separated files (`human_data.txt`, `chimp_data
 - `class`: Gene family label (integer)
 - `sequence`: Raw DNA sequence (e.g., `AAGGTGAGTGAAATCTCAAC...`)
 
-Example structure:
-```plaintext
+### Example structure:
 class    sequence
 0        ATGGTGCTAG...
 1        TGCGATACGT...
